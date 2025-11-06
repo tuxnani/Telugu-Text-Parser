@@ -1,0 +1,4 @@
+{
+  "name": "Telugu Sentence Classifier",
+  "description": "A web application to classify sentences from provided text into pure Telugu, mixed English/Telugu, or incomplete Telugu sentences, simulating processing a large corpus of text files."
+}
